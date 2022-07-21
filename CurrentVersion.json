@@ -1,0 +1,17 @@
+{
+   "clientVersion": "0.0.6",
+   "extensionVersion": "1.2",
+   "supportedVersions": [
+      "0.0.7",
+      "0.0.6"
+   ],
+   "changelog": [
+      "Version 0.0.6 Changelog",
+      "",
+      "Updated icons with ones from FontAwesome",
+      "Client now checks version",
+      "Changed dark mode background color to a nicer one",
+      "Fixed light mode breaking on load bug"
+   ],
+   "changelogRows": 6
+}
