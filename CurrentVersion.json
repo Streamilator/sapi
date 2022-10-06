@@ -1,17 +1,16 @@
 {
-   "clientVersion": "0.0.6",
+   "clientVersion": "0.0.8",
    "extensionVersion": "1.2",
    "supportedVersions": [
-      "0.0.7",
-      "0.0.6"
+      "0.0.8"
    ],
    "changelog": [
-      "Version 0.0.6 Changelog",
+      "Version 0.0.8 Changelog",
       "",
-      "Updated icons with ones from FontAwesome",
-      "Client now checks version",
-      "Changed dark mode background color to a nicer one",
-      "Fixed light mode breaking on load bug"
+      "Now with a Mix button, Streamilator 0.0.8 Version B allows for you to control your music like never before.",
+      "Like and Dislike button have been added",
+      "GUI has been slightly moved around",
+      "New-ish bootup sequence"
    ],
    "changelogRows": 6
 }
